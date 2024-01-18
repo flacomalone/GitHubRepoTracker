@@ -1,0 +1,19 @@
+allowedEvents = [
+    "CommitCommentEvent",
+    "CreateEvent",
+    "DeleteEvent",
+    "ForkEvent",
+    "GollumEvent",
+    "IssueCommentEvent",
+    "IssuesEvent",
+    "MemberEvent",
+    "PublicEvent",
+    "PullRequestEvent",
+    "PullRequestReviewEvent",
+    "PullRequestCommentEvent",
+    "PullRequestReviewThreadEvent",
+    "PushEvent",
+    "ReleaseEvent",
+    "SponsorShipEvent",
+    "WatchEvent"
+]

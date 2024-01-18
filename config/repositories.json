@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Resemblyzer",
+    "owner": "resemble-ai",
+    "repo": "https://github.com/resemble-ai/Resemblyzer"
+  },
+  {
+    "name": "openpilot",
+    "owner": "commaai",
+    "repo": "https://github.com/commaai/openpilot"
+  },
+  {
+    "name": "onnx",
+    "owner": "onnx",
+    "repo": "https://github.com/onnx/onnx"
+  },
+  {
+    "name": "tensorflow",
+    "owner": "tensorflow",
+    "repo": "https://github.com/tensorflow/tensorflow"
+  },
+  {
+    "name": "crewAI",
+    "owner": "joaomdmoura",
+    "repo": "https://github.com/joaomdmoura/crewAI"
+  }
+]
